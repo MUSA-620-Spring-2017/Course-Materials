@@ -2,7 +2,7 @@
 
 **SCHEDULING**
 
-Class: Wednesdays from 9am to 12pm. Office hours: Mondays from 1pm to 5pm, by appointment.
+Class: Wednesdays from 9am to 12pm. Office hours: Mondays from 1pm to 5pm, by appointment (galkamaxd at gmail).
 
 				
 **OBJECTIVE**
@@ -41,8 +41,8 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 | Class # | Date | Topic | Notes |
 |-----|------|-------|-------|
 | Week 1 | Jan 18 | [Introduction / Data visualization concepts](https://github.com/MUSA-620-Fall-2017/Week-1) | [Slides](https://github.com/MUSA-620-Fall-2017/Week-1/blob/master/week-1-data-visualization-concepts.pptx) |
-| Week 2 | Jan 25 | Web scraping with R |
-| Week 3 | Feb 1 | Census data: American Community Survey API |
+| Week 2 | Jan 25 | Working with Census data |
+| Week 3 | Feb 1 | Web scraping with R |
 | Week 4 | Feb 8 | Unstructured data: Twitter API |
 | Week 5 | Feb 15 | Large datasets: NYC Taxi & Uber trip data with Google BigQuery |
 | Week 6 | Feb 22 | Spatial databases: PostGIS |
