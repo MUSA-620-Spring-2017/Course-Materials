@@ -40,7 +40,7 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 
 | Class # | Date | Topic | Notes |
 |-----|------|-------|-------|
-| Week 1 | Jan 18 | Introduction / Data visualization concepts | Slides |
+| Week 1 | Jan 18 | [Introduction / Data visualization concepts](https://github.com/MUSA-620-Fall-2017/Week-1) | [Slides](https://github.com/MUSA-620-Fall-2017/Week-1/blob/master/week-1-data-visualization-concepts.pptx) |
 | Week 2 | Jan 25 | Web scraping with R |
 | Week 3 | Feb 1 | Census data: American Community Survey API |
 | Week 4 | Feb 8 | Unstructured data: Twitter API |
