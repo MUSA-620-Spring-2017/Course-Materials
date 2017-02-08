@@ -2,7 +2,7 @@
 
 **SCHEDULING**
 
-Class: Wednesdays from 9am to 12pm. Office hours: Mondays from 1pm to 5pm, by appointment (galkamaxd at gmail).
+Class: Wednesdays from 9am to 12pm. Office hours: Mondays 6pm-8pm and Tuesdays 1pm-3pm. Email galkamaxd at gmail to schedule a time.
 
 				
 **OBJECTIVE**
