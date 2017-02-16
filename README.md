@@ -44,7 +44,7 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 | Week 2 | Jan 25 | [Working with Census data](https://github.com/MUSA-620-Fall-2017/Week-2) | [Slides](https://github.com/MUSA-620-Fall-2017/Week-2/blob/master/week-2-census-data.pptx)|
 | Week 3 | Feb 1 | [Web scraping with R](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-3/) | [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-3/blob/master/week-3-web-scraping.pptx)|
 | Week 4 | Feb 8 | [Unstructured data: Twitter API](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-4/) | [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-4/blob/master/week-4-twitter.pptx) |
-| Week 5 | Feb 15 | Large datasets: NYC Taxi & Uber trip data with Google BigQuery |
+| Week 5 | Feb 15 | [Large datasets: NYC Taxi trip data with Google BigQuery](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-5) | [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-5/blob/master/week-5-big-datasets.pptx) |
 | Week 6 | Feb 22 | Spatial databases: PostGIS |
 | Week 7 | Mar 1 | Data frames and data manipulation with R: dplyr |
 | Spring Break|
