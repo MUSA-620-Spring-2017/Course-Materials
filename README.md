@@ -1,4 +1,4 @@
-#MUSA 620: Data Wrangling and Data Visualization
+#Upenn: MUSA 620 - Data Wrangling and Data Visualization
 
 **SCHEDULING**
 
