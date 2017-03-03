@@ -46,7 +46,7 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 | Week 4 | Feb 8 | [Unstructured data: Twitter API](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-4/) | [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-4/blob/master/week-4-twitter.pptx) |
 | Week 5 | Feb 15 | [Large datasets: NYC Taxi trip data with Google BigQuery](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-5) | [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-5/blob/master/week-5-big-datasets.pptx) |
 | Week 6 | Feb 22 | [Spatial databases: PostGIS](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-6) | [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-6/blob/master/week-6-spatial-databases.pptx) |
-| Week 7 | Mar 1 | [Data frames and data manipulation with R: dplyr](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-7) |
+| Week 7 | Mar 1 | [Data frames and data manipulation with R: dplyr](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-7) | [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-7/blob/master/week-7-data-frames-spatial-databases-continued.pptx) |
 | Spring Break|
 | Week 8|Mar 15|		Natural language processing: sentiment analysis|
 |Week 9|	Mar 22		|Data visualization with R: ggplot2|
