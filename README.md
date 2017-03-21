@@ -48,7 +48,7 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 | Week 6 | Feb 22 | [Spatial databases: PostGIS](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-6) | [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-6/blob/master/week-6-spatial-databases.pptx) |
 | Week 7 | Mar 1 | [Data frames and data manipulation with R: dplyr](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-7) | [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-7/blob/master/week-7-data-frames-spatial-databases-continued.pptx) |
 | Spring Break|
-| Week 8|Mar 15|		Natural language processing: sentiment analysis|
+| Week 8|Mar 15|		[Natural language processing](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-8)| [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-8/blob/master/week-8-text-mining.pptx) |
 |Week 9|	Mar 22		|Data visualization with R: ggplot2|
 |Week 10|	Mar 29	|	Geocoding / mapping with R: ggmap|
 |Week 11|	Apr 5		 | Shiny|
