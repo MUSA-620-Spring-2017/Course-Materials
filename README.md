@@ -2,7 +2,9 @@
 
 **SCHEDULING**
 
-Class: Wednesdays from 9am to 12pm. Office hours: Mondays 6pm-8pm and Tuesdays 1pm-3pm. Email galkamaxd at gmail to schedule a time.
+Class: Wednesdays from 9am to 12pm in the Levin Building, room 111.
+
+Office hours: Mondays 6pm-8pm and Tuesdays 1pm-3pm. Email galkamaxd at gmail to schedule a time.
 
 				
 **OBJECTIVE**
