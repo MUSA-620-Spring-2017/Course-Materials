@@ -51,8 +51,8 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 | Week 7 | Mar 1 | [Data frames and data manipulation with R: dplyr](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-7) | [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-7/blob/master/week-7-data-frames-spatial-databases-continued.pptx) |
 | Spring Break|
 | Week 8|Mar 15|		[Natural language processing](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-8)| [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-8/blob/master/week-8-text-mining.pptx) |
-|Week 9|	Mar 22		|Data visualization with R: ggplot2|
-|Week 10|	Mar 29	|	Geocoding / mapping with R: ggmap|
+|Week 9|	Mar 22		|[Data visualization with R: ggplot2](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-9)| [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-9/blob/master/week-9-ggplot.pptx) |
+|Week 10|	Mar 29	| [Interactive maps with R Leaflet](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-10) | [Slides](https://github.com/MUSA-620-Fall-2017/MUSA-620-Week-10/blob/master/week-10-leaflet.pptx) |
 |Week 11|	Apr 5		 | Shiny|
 |Week 12	|Apr 12		|Shiny|
 |Week 13	|Apr 19		|Shiny |
